@@ -1,0 +1,57 @@
+{
+  "title": "Send my regards to Kenshiro",
+  "description": "The 'love, revenge, and slight euphoria' story centers on a young man who swears revenge against the yakuza. He studies the art of the 'assassination fist' with all his might, and becomes an adult. But this man who is a genius at his martial art form realizes his techniques cannot actually be used to kill anyone.",
+  "artist": "Jasmine Gyuh",
+  "author": "Jasmine Gyuh",
+  "cover": "https://m.media-amazon.com/images/I/51yC-8y9sRL.jpg",
+  "chapters": {
+    "5": {
+      "title": "The million point",
+      "volume": "1",
+      "groups": {
+        "Pillow Book": "/proxy/api/imgur/chapter/6bQVQPr/"
+      },
+      "last_updated": "1591797510"
+    },
+    "6": {
+      "title": "Push & Shove",
+      "volume": "1",
+      "groups": {
+        "Pillow Book": "/proxy/api/imgur/chapter/kVyd50d/"
+      },
+      "last_updated": "1591883910"
+    },    
+    "7": {
+      "title": "Hidden Flaw",
+      "volume": "1",
+      "groups": {
+        "Pillow Book": "/proxy/api/imgur/chapter/uXgI3LW/"
+      },
+      "last_updated": "1591883910"
+    },  
+    "8": {
+      "title": "Agent H",
+      "volume": "1",
+      "groups": {
+        "Pillow Book": "/proxy/api/imgur/chapter/YlBZIfS/"
+      },
+      "last_updated": "1591883910"
+    },  
+    "9": {
+      "title": "It's an assassination except it's not",
+      "volume": "1",
+      "groups": {
+        "Pillow Book": "/proxy/api/imgur/chapter/Ph0228f/"
+      },
+      "last_updated": "1591883910"
+    },  
+    "10": {
+      "title": "You は Shock!",
+      "volume": "1",
+      "groups": {
+        "Pillow Book": "/proxy/api/imgur/chapter/oVuK7ZD/"
+      },
+      "last_updated": "1591883910"
+    },
+  }
+}
